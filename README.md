@@ -3,8 +3,8 @@
 ### Portugês:
 #### Sobre mim 
 
-- 🔭 Buscando conhecimento I’m currently working on ...
-- 🌱 Aprendendo Scala atualmente. I’m currently learning ...
+- 🔭 Buscando conhecimento
+- 🌱 Aprendendo Scala atualmente.
 - 😄 Desenvolvo em várias tecnologias de programação distibuída.
 - 📚 Toco um pouco de economia e filosofia de ouvido.
 - ⚡ Humano por azar, engenheiro de dados por fatalidade.
